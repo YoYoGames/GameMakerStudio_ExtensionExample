@@ -19,3 +19,9 @@
 *.exe
 *.out
 *.app
+
+build/*
+DerivedData/*
+ExampleExtension.xcodeproj/project.xcworkspace/xcshareddata/*
+ExampleExtension.xcodeproj/xcuserdata/*
+ExampleExtension.xcodeproj/project.xcworkspace/xcuserdata/*

@@ -25,3 +25,8 @@ DerivedData/*
 ExampleExtension.xcodeproj/project.xcworkspace/xcshareddata/*
 ExampleExtension.xcodeproj/xcuserdata/*
 ExampleExtension.xcodeproj/project.xcworkspace/xcuserdata/*
+WinPhone/ARM/*
+WinPhone/Debug/*
+WinPhone/Release/*
+*.suo
+*.sdf
